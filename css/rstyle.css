@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+}
+body{
+	
+	font-family: 'Roboto', sans-serif;
+	background: url(../images/p18.png)no-repeat;
+	background-size: cover;
+
+}
+.title{
+
+color: #fff;
+margin-top: 40px;
+font-family: 'Chewy', cursive;
+
+
+
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+	
+	margin-bottom: 20px;
+	;
+}
+.container{
+	width: 1170px;
+	margin:0 auto 0 30px;
+	}
+
+.background{
+
+	width: cover;
+
+}
+.signup-form{
+	width: 350px;
+	margin: auto 10 0;
+	background: rgba(0,0,0,0);
+	padding: 20px;
+}
+form{
+	width: 1170px;
+	margin: 0 40px;
+
+}
+
+.form-left{
+
+	width: 500px;
+
+	margin: 0 auto;
+	float:left;
+
+
+}
+.form-right{
+
+
+	width: 500px;
+	height: 135px;
+	float: right;
+}
+input{
+	width: 95%;
+	margin-bottom: 15px;
+	font-family: 'Roboto', sans-serif;
+	height: 30px;
+	font-size: 16px;
+	padding: 2px 10px;
+	border: none;
+	border-bottom: 1px solid #333;
+}
+select{
+	width: 98.5%;
+
+	margin-bottom: 15px;
+	font-family: 'Roboto', sans-serif;
+	height: 35px;
+	font-size: 16px;
+	padding: 2px 10px;
+	border: none;
+	border-bottom: 1px solid #333;
+
+}
+.gender input{
+
+	color: white;
+	width: 20px;
+	
+
+	
+
+}
+..gender{
+
+color: white;
+
+
+
+}
+
+.submit-btn{
+	width: 100px;
+	line-height: 30px;
+	background: skyblue;
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 1px 1px 3px #333;
+	display: block;
+	margin-left: 392px;
+	text-decoration: none;
+	transition: all 1s;
+}
+.submit-btn:hover{
+	cursor: pointer;
+	background: green;
+}
+.signup-form p{
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	padding-top: 15px;
+}
+.signup-form a{
+	color: #fff;
+}
+.signup-form a:hover{
+	color: black;
+	cursor: pointer;
+	text-decoration-style: none;
+
+}
